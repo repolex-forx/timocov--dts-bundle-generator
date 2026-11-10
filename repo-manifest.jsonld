@@ -8,7 +8,7 @@
     {
       "@id": "https://repolex.ai/r/timocov/dts-bundle-generator/commit/1dfdcf8993e37d7dfc757a8b6ef38f24998b5c9f",
       "git:hexsha": "1dfdcf8993e37d7dfc757a8b6ef38f24998b5c9f",
-      "repolex:parseStatus": "metadata_complete"
+      "repolex:parseStatus": "ast_complete"
     },
     {
       "@id": "https://repolex.ai/r/timocov/dts-bundle-generator/commit/7aed6ab04fc219dda0ff50e345050e9c5a11b55a",
