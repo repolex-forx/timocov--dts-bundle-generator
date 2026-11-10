@@ -1,0 +1,11 @@
+{
+  "org": "timocov",
+  "repo": "dts-bundle-generator",
+  "versions": [
+    {
+      "commit": "1dfdcf8993e37d7dfc757a8b6ef38f24998b5c9f",
+      "tag": "",
+      "parsed_at": "2026-11-10T07:47:12.585875+00:00"
+    }
+  ]
+}
